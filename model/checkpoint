@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/sampocs/Documents/Programming/Python/OpenAI/CartPole-FF/model/cartpole_agent.model"
+all_model_checkpoint_paths: "/Users/sampocs/Documents/Programming/Python/OpenAI/CartPole-FF/model/cartpole_agent.model"
